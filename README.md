@@ -1,5 +1,6 @@
 # Evolution of Net Remittance
 
+![alt text](https://raulincadet.github.io/remittance.png)
 ### Research Question
 Since many people in low income-level countries emigrate to look for a better income, remittances inflow in these countries might be high. However, people in these countries also send remittances to their relatives in other countries, for several reason such as the education of their children. Thus, instead of considering only inflow of remittances in these countries, it is essential to compare the net remittances balance of low-income level countries with the ones of middle and high income level countries. Thus, our project is specific to the following question. Does the mean of the net remittance higher for low-income level countries, compared to other groups of countries?
 
