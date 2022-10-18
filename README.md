@@ -1,6 +1,11 @@
 # Evolution of Net Remittance
+![GitHub top language](https://img.shields.io/github/languages/top/raulincadet/remittances_low-income?style=plastic)
+![GitHub repo size](https://img.shields.io/github/repo-size/raulincadet/remittances_low-income?color=green)
+![GitHub language count](https://img.shields.io/github/languages/count/raulincadet/remittances_low-income?style=plastic)
+![Lines of code](https://img.shields.io/tokei/lines/github/raulincadet/remittances_low-income?color=orange&style=plastic)
 
-![alt text](https://raulincadet.github.io/remittance.png)
+![image](https://user-images.githubusercontent.com/11329136/196491162-a1727de6-832e-4087-86a9-63d4bdf3abc1.png)
+
 ### Research Question
 Since many people in low income-level countries emigrate to look for a better income, remittances inflow in these countries might be high. However, people in these countries also send remittances to their relatives in other countries, for several reasons such as the education of their children. Thus, instead of considering only inflow of remittances in these countries, it is essential to compare the net remittances balance of low-income level countries with the ones of middle and high income level countries. Thus, our project is specific to the following question. Does the mean of the net remittance higher for low-income level countries than for other groups of countries?
 
@@ -23,6 +28,6 @@ To do this comparison, we:
 The previous process is repeated to compute the mean of net remittance per capita. In this case, after computing the net remittance by country, it is divided by the population (for each country and by year).
 
 ### Discussion
-Figure 1 shows that, although low-income level countries are still net remittance receivers, considering the mean of net the mean amount they receive tends to decrease. However, the net remittance may tend to decrease because of a decrease of the total population in low-income level countries. Some countries may switch from low-income level group to another. In this case, the population of low-income level country group may decrease. When considering the mean of the population by group of countries, we observe (see figure 2) that it tends to decrease since the end of the 1990s.
+Figure 1 shows that, although low-income level countries are still net remittance receivers, considering the mean of net remittances, the average amount tends to stagnate. The net remittance may tend to decrease because of a decrease of the total population in low-income level countries. Some countries may switch from low-income level group to another. In this case, the population of low-income level country group may decrease. When considering the mean of the population by group of countries, we observe (see figure 2) that it tends to decrease since the end of the 1990s.
 
 Thus, instead of considering the mean of net remittance, we plot the mean of net remittance per capita. Figure 3 shows that although the mean of net remittance per capita is increasing in low-income-level countries, it is lower when compared to lower-middle and upper middle income-level groups. 
